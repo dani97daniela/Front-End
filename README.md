@@ -3,4 +3,4 @@ Financial Planner
 
 
 
-will update soon!
+npm start
